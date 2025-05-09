@@ -5,11 +5,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique Lima Leal</h1>
 <h3 align="center">A passionate frontend developer and future Software Engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohll4&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohll4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohll4" alt="pedrohll4" /></a> </p>
-
-- 🔭 I’m currently working on [app ICASEI](https://github.com/pedrohll4/casei.git)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohll4&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohll4" /> </
+- 🔭 I’m currently working on [app ICASEI](https://github.com/pedrohll4/casei.git) and others
 
 - 🌱 I’m currently learning **cloud computing**
 
